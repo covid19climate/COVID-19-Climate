@@ -17,6 +17,6 @@ COVID-19 confirmed cases updated at: 25/03/2020 <br><br>
 
 ### Pearson correlation tables
 #### Replication Rate & Climate Parameters
- ![Correlation between replication rate and climate parameters](Latest_Results/RR_Pearson_correlation.PNG) 
+ ![Correlation between replication rate and climate parameters](Latest_Results/RR_Pearson_Correlation.PNG) 
 #### Rate of Spread & Climate Parameters 
- ![Correlation between rate of spread and climate parameters](Latest_Results/RoS_Pearson_correlation.PNG) 
+ ![Correlation between rate of spread and climate parameters](Latest_Results/RoS_Pearson_Correlation.PNG) 
