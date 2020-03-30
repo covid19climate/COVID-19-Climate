@@ -1,6 +1,6 @@
 # Climate effect on COVID-19 spread rate : an online surveillance tool 
-Updated at: 29/03/2020 <br>
-COVID-19 confirmed cases updated at: 28/03/2020 <br><br>
+Updated at: 30/03/2020 <br>
+COVID-19 confirmed cases updated at: 29/03/2020 <br><br>
 
 ### Confirmed Cases in "warm" vs. "cold" climate countries 
 ![COVID-19 Confirmed Cases - Warm vs. Cold (logarithmic plot)](Latest_Results/confirmed_cases_warm_vs_cold_countries.png)
